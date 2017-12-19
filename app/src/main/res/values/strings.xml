@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HTTPDemo</string>
+    <string name="translate_up_down_behavior">com.example.httpdemo.TranslateUpDownBehavior</string>
+</resources>
